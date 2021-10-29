@@ -1,0 +1,39 @@
+body{font-family: Arial, Helvetica, sans-serif; background-color: rgb(43, 153, 22);
+background-image: url(https://images.pexels.com/photos/15286/pexels-photo.jpg?cs=srgb&dl=pexels-luis-del-r%C3%ADo-15286.jpg&fm=jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: auto;
+}
+
+h1{text-align: center;color: chartreuse;}
+p{text-align: center;
+    line-height: 30px;
+    
+}
+
+.conteudo{
+    margin: auto; 
+    margin-top: 200px;
+    
+    background-color: bisque;
+    width: 300px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 40px black;
+    background-image: url(../);
+}
+.enfase{text-align: right;color: green;font-size: 25px;}
+.entrar{text-align: center; font-size: 30px;}
+
+.botao{background-color:darkgreen;
+display: grid;
+place-content: center; 
+color: white;
+padding: 10px;
+margin-left: 40px;
+margin-right: 40px;
+text-decoration: none;border-radius: 5px;
+text-transform: uppercase;
+
+}
+.botao:hover{background-color: black;}
